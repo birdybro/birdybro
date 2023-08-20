@@ -8,3 +8,14 @@ I do IT Support stuff at a plastics manufacturing company for my day job and try
 📫 How to reach me: kcoleman@misterfpga.co  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I have two wonderful parrots, hence the username...  
+
+Some stuff I've done:
+
+* [Made an aesthetically pleasing and SEO-able documentation site for the MiSTer FPGA project](https://github.com/MiSTer-devel/MkDocs_MiSTer)
+* Ported multiple FPGA cores over to the MiSTer FPGA platform:
+  * [Mystic Marathon](https://github.com/MiSTer-devel/Arcade-MysticMarathon_MiSTer)
+  * [Joust 2](https://github.com/MiSTer-devel/Arcade-Joust2_MiSTer)
+  * [Inferno](https://github.com/MiSTer-devel/Arcade-Inferno_MiSTer)
+  * [Turkey Shoot](https://github.com/MiSTer-devel/Arcade-TurkeyShoot_MiSTer)
+* Completed the digital logic design and implementation portion of Nand2Tetris and ported the course's ALU to verilog both in structural and in behavioral form.
+* 
