@@ -18,4 +18,3 @@ Some stuff I've done:
   * [Inferno](https://github.com/MiSTer-devel/Arcade-Inferno_MiSTer)
   * [Turkey Shoot](https://github.com/MiSTer-devel/Arcade-TurkeyShoot_MiSTer)
 * Completed the digital logic design and implementation portion of Nand2Tetris and ported the course's ALU to verilog both in structural and in behavioral form.
-* 
