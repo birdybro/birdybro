@@ -17,4 +17,6 @@ Some stuff I've done:
   * [Joust 2](https://github.com/MiSTer-devel/Arcade-Joust2_MiSTer)
   * [Inferno](https://github.com/MiSTer-devel/Arcade-Inferno_MiSTer)
   * [Turkey Shoot](https://github.com/MiSTer-devel/Arcade-TurkeyShoot_MiSTer)
-* Completed the digital logic design and implementation portion of Nand2Tetris and ported the course's ALU to verilog both in structural and in behavioral form.
+  * [Tropical Angel](https://github.com/MiSTer-devel/Arcade-TropicalAngel_MiSTer)
+* Completed the digital logic design and implementation portions of Nand2Tetris and ported the course's ALU to verilog both in structural and in behavioral form.
+* Certified ISO 13485/9001 internal auditor.
