@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm birdybro!
 
-I do IT Support stuff at a plastics manufacturing company for my day job and try to learn everything I can about software programming, hardware description languages, and much more in my spare time.
+I do IT Support, some System Administration, and some Software Development at a plastics manufacturing company for my day job and try to learn everything I can about software programming, hardware description languages, and much more in my spare time.
 
 🔭 I’m currently working on demonstrating my skills so I can position myself more competitively in my career.  
 🌱 I’m currently learning Verilog/SystemVerilog hardware description languages.  
